@@ -217,7 +217,7 @@ def update_user_profile(username, updated_data):
 # ------------------------
 
 st.set_page_config(page_title="MicroCrest", layout="wide")
-st.markdown("<h1 style='text-align: center; color: #1a73e8;'>📈 MicroCrest – Stock Prediction</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #1a73e8;'>MicroCrest – Stock Prediction</h1>", unsafe_allow_html=False)
 
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
