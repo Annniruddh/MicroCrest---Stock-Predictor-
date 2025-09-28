@@ -1,0 +1,32 @@
+{
+    "admin": {
+        "password": "admin123",
+        "first_name": "",
+        "last_name": "",
+        "email": ""
+    },
+    "ASHISH": {
+        "password": "ASHISH",
+        "first_name": "",
+        "last_name": "",
+        "email": ""
+    },
+    "ANIRUDDH": {
+        "password": "ANIRUDDH",
+        "first_name": "Aniruddh",
+        "last_name": "Dawale",
+        "email": "annniruddh@gmail.com"
+    },
+    "ANIRUDDH09": {
+        "password": "06a0e32aea63e0dbd76ad56f544ad89ae5c19cbd6e7fa762537c10b03559c138",
+        "first_name": "Aniruddh",
+        "last_name": "Dawale",
+        "email": "annniruddh@gmail.com"
+    },
+    "Tejas02": {
+        "password": "1ff27e6e2bbe6166f3e8054e819732b0b173f02ff52a7f5353abe8e8f3647a1d",
+        "first_name": "Tejas",
+        "last_name": "Dawale",
+        "email": "tejas@gmail.com"
+    }
+}
