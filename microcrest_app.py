@@ -186,8 +186,7 @@
 
 
 
-
-
+git remote add origin https://github.com/Annniruddh/MicroCrest---Stock-Predictor-.git
 
 
 
